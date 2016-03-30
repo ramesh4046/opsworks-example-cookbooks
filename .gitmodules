@@ -1,0 +1,3 @@
+[submodule "lib/billboard"]
+	path = lib/billboard
+	url = https://github.com/awslabs/todo-sample-app
